@@ -1,2 +1,2 @@
 # html-portfolio
-My HTML projects of the webdeveloper course
+The HTML projects of my webdeveloper course
